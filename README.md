@@ -55,9 +55,6 @@ O veículo ALE-1234 foi removido e o preço total foi de: R$ 14,00
 O programa se encerrou
 ```
 
-### 🎬 | Certificado:
-
-
 ### 👩🏻‍💻 | Desenvolvedora 
 
 [Alessandra Alves](https://github.com/ale-alves)
